@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net6.0\HomeworkForEachLoop.exe
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net6.0\HomeworkForEachLoop.deps.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net6.0\HomeworkForEachLoop.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net6.0\HomeworkForEachLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\bin\Debug\net6.0\HomeworkForEachLoop.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\refint\HomeworkForEachLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\HomeworkForEachLoop.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForEachLoopApp\HomeworkForEachLoop\obj\Debug\net6.0\ref\HomeworkForEachLoop.dll

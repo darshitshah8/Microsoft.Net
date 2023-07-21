@@ -1,0 +1,28 @@
+﻿@page "/MessageWall"
+
+<h3>MessageWall</h3>
+<PageTitle>Message Wall</PageTitle>
+<EditForm Model="myData" OnValidSubmit="ValidSubmission">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+    <label for="message" class="form-label">@nameof(myData.Message)</label>
+
+    <InputText id="message" @bind-Value="myData.Message" class="form-control" />
+    <button class="btn btn-primary" type="submit">Submit</button>
+</EditForm>
+
+<ul>
+    @foreach (string message in messages)
+    {
+        <li>@message</li>
+    }
+</ul>
+@code {
+    private MessageModel myData = new();
+    private List<string> messages = new();
+
+    private void ValidSubmission()
+    {
+        messages.Add(myData.Message);
+    }
+}

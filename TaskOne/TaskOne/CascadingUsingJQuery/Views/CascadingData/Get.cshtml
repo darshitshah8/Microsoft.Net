@@ -1,0 +1,136 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cascading Data</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> 
+    <script src="~/lib/jquery/dist/cascadingdata.js"></script>
+    <style>
+        button{
+            background-color:dodgerblue;
+            border-radius: 40px;
+            color:white;
+            font-size:15px
+        }
+        button .btn{
+            
+            background-color: dodgerblue;
+            padding : 20px
+        }
+        .clickable{
+                cursor:pointer;
+                background-color: rosybrown;
+            }
+     
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        #recordCount span{
+            font-weight :bolder;
+        }
+            /* Table Header */
+            .table th {
+                background-color: #f2f2f2;
+                padding: 8px;
+                text-align: left;
+                border-bottom: 1px solid #ddd;
+            }
+
+            /* Table Body */
+            .table td {
+                padding: 8px;
+                border-bottom: 1px solid #ddd;
+            }
+
+            /* Alternate Row Background Color */
+            .table tr:nth-child(even) {
+                background-color: #f2f2f2;
+            }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }            
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light ">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                </button>
+                <div class="navbar-collapse collapse justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item float-right">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Home">Home</a>
+                        </li>
+                        @*<li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="CascadingData" asp-action="Get">Cascading</a>
+                        </li>*@
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Help">Help</a>
+                        </li>
+                        <li class="nav-item " style="float: right;">
+                           <a class="nav-link text-danger" asp-area="" asp-controller="Home" asp-action="LogOut">Sign Out</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </header>
+    <div class="container">
+
+        <h2>Cascading Data</h2>
+        
+        <div>   
+            <div class="resultCount">
+                <span class="recordCountText"></span>
+            </div>
+            
+
+            <form>
+                <div>
+                <input type="text" id="inputId" name="Search" placeholder="Search...">
+               @* <input type="text" id="inputCountry" name="Search" placeholder="Search Country...">
+                <input type="text" id="inputState" name="Search" placeholder="Search State...">
+                <input type="text" id="inputCity" name="Search" placeholder="Search City...">*@
+                <button type="button" id="btn" onclick="GetById()" name="search">Search</button>
+                    @*<button id="sortButton" onclick="sortTable()" style="float:right">Sort</button>*@
+                </div>
+
+            </form>
+            
+        </div>
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th class="num">No.</th>
+                    <th class="num">Country Id</th>
+                    <th class="text">Country Name </th>
+                    <th class="text">State Name</th>
+                    <th class="text">City Name </th>
+                </tr>
+            </thead>
+
+            <tbody class="tbody">
+            </tbody>
+        </table>
+        <hr />
+    </div>
+
+    
+</body>
+</html>
+
+
+

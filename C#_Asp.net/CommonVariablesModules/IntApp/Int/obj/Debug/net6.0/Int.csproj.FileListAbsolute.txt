@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\bin\Debug\net6.0\Int.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\bin\Debug\net6.0\Int.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\bin\Debug\net6.0\Int.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\bin\Debug\net6.0\Int.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\bin\Debug\net6.0\Int.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\refint\Int.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\Int.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\IntApp\Int\obj\Debug\net6.0\ref\Int.dll

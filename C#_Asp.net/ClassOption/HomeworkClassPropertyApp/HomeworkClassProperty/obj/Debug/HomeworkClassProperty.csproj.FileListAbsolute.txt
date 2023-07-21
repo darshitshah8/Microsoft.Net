@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\bin\Debug\HomeworkClassProperty.exe.config
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\bin\Debug\HomeworkClassProperty.exe
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\bin\Debug\HomeworkClassProperty.pdb
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\obj\Debug\HomeworkClassProperty.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\obj\Debug\HomeworkClassProperty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\obj\Debug\HomeworkClassProperty.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\obj\Debug\HomeworkClassProperty.exe
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkClassPropertyApp\HomeworkClassProperty\obj\Debug\HomeworkClassProperty.pdb

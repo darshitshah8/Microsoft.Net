@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\bin\Debug\net6.0\HomeworkForLoop.exe
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\bin\Debug\net6.0\HomeworkForLoop.deps.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\bin\Debug\net6.0\HomeworkForLoop.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\bin\Debug\net6.0\HomeworkForLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\bin\Debug\net6.0\HomeworkForLoop.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\refint\HomeworkForLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\HomeworkForLoop.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkForLoopApp\HomeworkForLoop\obj\Debug\net6.0\ref\HomeworkForLoop.dll

@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\bin\Debug\HomeWorkDebugging.exe.config
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\bin\Debug\HomeWorkDebugging.exe
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\bin\Debug\HomeWorkDebugging.pdb
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\obj\Debug\HomeWorkDebugging.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\obj\Debug\HomeWorkDebugging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\obj\Debug\HomeWorkDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\obj\Debug\HomeWorkDebugging.exe
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeWorkDebuggingApp\HomeWorkDebugging\obj\Debug\HomeWorkDebugging.pdb

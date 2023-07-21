@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\bin\Debug\net6.0\Null.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\bin\Debug\net6.0\Null.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\bin\Debug\net6.0\Null.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\bin\Debug\net6.0\Null.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\bin\Debug\net6.0\Null.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\refint\Null.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\Null.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\NullApp\Null\obj\Debug\net6.0\ref\Null.dll

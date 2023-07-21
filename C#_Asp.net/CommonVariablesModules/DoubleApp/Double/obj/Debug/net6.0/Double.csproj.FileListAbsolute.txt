@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\bin\Debug\net6.0\Double.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\bin\Debug\net6.0\Double.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\bin\Debug\net6.0\Double.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\bin\Debug\net6.0\Double.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\bin\Debug\net6.0\Double.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\refint\Double.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\Double.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DoubleApp\Double\obj\Debug\net6.0\ref\Double.dll

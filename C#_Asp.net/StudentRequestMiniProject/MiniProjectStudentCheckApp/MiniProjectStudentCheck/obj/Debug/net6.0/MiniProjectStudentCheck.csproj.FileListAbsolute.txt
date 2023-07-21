@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\bin\Debug\net6.0\MiniProjectStudentCheck.exe
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\bin\Debug\net6.0\MiniProjectStudentCheck.deps.json
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\bin\Debug\net6.0\MiniProjectStudentCheck.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\bin\Debug\net6.0\MiniProjectStudentCheck.dll
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\bin\Debug\net6.0\MiniProjectStudentCheck.pdb
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.dll
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\refint\MiniProjectStudentCheck.dll
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.pdb
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\MiniProjectStudentCheck.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\StudentRequestMiniProject\MiniProjectStudentCheckApp\MiniProjectStudentCheck\obj\Debug\net6.0\ref\MiniProjectStudentCheck.dll

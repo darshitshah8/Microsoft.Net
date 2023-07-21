@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkMongoUI", "HomeWorkMongoUI\HomeWorkMongoUI.csproj", "{D0B7680C-69FF-495A-844F-D900D1BB1E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataAccessLibrary\DataAccessLibrary.csproj", "{935EBD27-C4AF-4744-A171-B00544F6DD7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B7680C-69FF-495A-844F-D900D1BB1E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B7680C-69FF-495A-844F-D900D1BB1E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B7680C-69FF-495A-844F-D900D1BB1E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B7680C-69FF-495A-844F-D900D1BB1E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935EBD27-C4AF-4744-A171-B00544F6DD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935EBD27-C4AF-4744-A171-B00544F6DD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935EBD27-C4AF-4744-A171-B00544F6DD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935EBD27-C4AF-4744-A171-B00544F6DD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA5A66D-B4BA-4FF7-BA10-48DAE79835B4}
+	EndGlobalSection
+EndGlobal

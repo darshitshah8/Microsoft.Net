@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\bin\Debug\net6.0\OnlyTime.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\bin\Debug\net6.0\OnlyTime.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\bin\Debug\net6.0\OnlyTime.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\bin\Debug\net6.0\OnlyTime.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\bin\Debug\net6.0\OnlyTime.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\refint\OnlyTime.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\OnlyTime.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\OnlyTimeApp\OnlyTime\obj\Debug\net6.0\ref\OnlyTime.dll

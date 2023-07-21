@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\bin\Debug\net6.0\HomeworkTypeConversion.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\bin\Debug\net6.0\HomeworkTypeConversion.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\bin\Debug\net6.0\HomeworkTypeConversion.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\bin\Debug\net6.0\HomeworkTypeConversion.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\bin\Debug\net6.0\HomeworkTypeConversion.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\refint\HomeworkTypeConversion.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\HomeworkTypeConversion.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkTypeConversionApp\HomeworkTypeConversion\obj\Debug\net6.0\ref\HomeworkTypeConversion.dll

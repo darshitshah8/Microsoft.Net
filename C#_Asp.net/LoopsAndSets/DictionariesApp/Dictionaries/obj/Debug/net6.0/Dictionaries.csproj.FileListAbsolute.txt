@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\bin\Debug\net6.0\Dictionaries.exe
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\bin\Debug\net6.0\Dictionaries.deps.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\bin\Debug\net6.0\Dictionaries.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\bin\Debug\net6.0\Dictionaries.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\bin\Debug\net6.0\Dictionaries.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\refint\Dictionaries.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\Dictionaries.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\DictionariesApp\Dictionaries\obj\Debug\net6.0\ref\Dictionaries.dll

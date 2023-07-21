@@ -1,0 +1,12 @@
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\bin\Debug\net6.0\CalculationLibrary.deps.json
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\bin\Debug\net6.0\CalculationLibrary.dll
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\bin\Debug\net6.0\CalculationLibrary.pdb
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.dll
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\refint\CalculationLibrary.dll
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.pdb
+C:\Users\Darshit.Shah\source\repos\UnitTest\MiniProjectUnitTest\CalculationLibrary\obj\Debug\net6.0\ref\CalculationLibrary.dll

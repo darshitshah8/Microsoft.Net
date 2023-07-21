@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\bin\Debug\net6.0\Bool.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\bin\Debug\net6.0\Bool.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\bin\Debug\net6.0\Bool.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\bin\Debug\net6.0\Bool.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\bin\Debug\net6.0\Bool.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\refint\Bool.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\Bool.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\BoolApp\Bool\obj\Debug\net6.0\ref\Bool.dll

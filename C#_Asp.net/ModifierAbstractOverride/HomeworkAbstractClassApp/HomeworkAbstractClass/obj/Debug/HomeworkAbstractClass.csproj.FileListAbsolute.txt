@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\bin\Debug\HomeworkAbstractClass.exe.config
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\bin\Debug\HomeworkAbstractClass.exe
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\bin\Debug\HomeworkAbstractClass.pdb
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\obj\Debug\HomeworkAbstractClass.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\obj\Debug\HomeworkAbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\obj\Debug\HomeworkAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\obj\Debug\HomeworkAbstractClass.exe
+C:\Users\Darshit.Shah\source\repos\ModifierAbstractOverride\HomeworkAbstractClassApp\HomeworkAbstractClass\obj\Debug\HomeworkAbstractClass.pdb

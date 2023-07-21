@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\bin\Debug\net6.0\DateOnly.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\bin\Debug\net6.0\DateOnly.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\bin\Debug\net6.0\DateOnly.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\bin\Debug\net6.0\DateOnly.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\bin\Debug\net6.0\DateOnly.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\refint\DateOnly.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\DateOnly.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\DateOnlyApp\DateOnly\obj\Debug\net6.0\ref\DateOnly.dll

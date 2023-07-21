@@ -1,0 +1,6 @@
+C:\Users\Darshit.Shah\source\repos\PutIToghether\PutItTogetherHomework\GuestLibrary\bin\Debug\GuestLibrary.dll
+C:\Users\Darshit.Shah\source\repos\PutIToghether\PutItTogetherHomework\GuestLibrary\bin\Debug\GuestLibrary.pdb
+C:\Users\Darshit.Shah\source\repos\PutIToghether\PutItTogetherHomework\GuestLibrary\obj\Debug\GuestLibrary.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\PutIToghether\PutItTogetherHomework\GuestLibrary\obj\Debug\GuestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\PutIToghether\PutItTogetherHomework\GuestLibrary\obj\Debug\GuestLibrary.dll
+C:\Users\Darshit.Shah\source\repos\PutIToghether\PutItTogetherHomework\GuestLibrary\obj\Debug\GuestLibrary.pdb

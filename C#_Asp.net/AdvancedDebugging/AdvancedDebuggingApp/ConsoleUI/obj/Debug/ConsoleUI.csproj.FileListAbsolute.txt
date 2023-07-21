@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\AdvancedDebuggingApp\ConsoleUI\obj\Debug\ConsoleUI.pdb

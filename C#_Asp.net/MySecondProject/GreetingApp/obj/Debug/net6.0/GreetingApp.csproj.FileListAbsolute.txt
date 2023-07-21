@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\bin\Debug\net6.0\GreetingApp.exe
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\bin\Debug\net6.0\GreetingApp.deps.json
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\bin\Debug\net6.0\GreetingApp.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\bin\Debug\net6.0\GreetingApp.dll
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\bin\Debug\net6.0\GreetingApp.pdb
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.dll
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\refint\GreetingApp.dll
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.pdb
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\GreetingApp.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\MySecondProject\GreetingApp\obj\Debug\net6.0\ref\GreetingApp.dll

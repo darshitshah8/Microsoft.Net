@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\bin\Debug\HomeWorkAdvancedExceptions.exe.config
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\bin\Debug\HomeWorkAdvancedExceptions.exe
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\bin\Debug\HomeWorkAdvancedExceptions.pdb
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\obj\Debug\HomeWorkAdvancedExceptions.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\obj\Debug\HomeWorkAdvancedExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\obj\Debug\HomeWorkAdvancedExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\obj\Debug\HomeWorkAdvancedExceptions.exe
+C:\Users\Darshit.Shah\source\repos\AdvancedDebugging\HomeWorkAdvancedExceptionsApp\HomeWorkAdvancedExceptions\obj\Debug\HomeWorkAdvancedExceptions.pdb

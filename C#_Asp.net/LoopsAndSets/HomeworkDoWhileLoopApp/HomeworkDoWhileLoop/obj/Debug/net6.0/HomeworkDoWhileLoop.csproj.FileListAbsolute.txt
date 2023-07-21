@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\bin\Debug\net6.0\HomeworkDoWhileLoop.exe
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\bin\Debug\net6.0\HomeworkDoWhileLoop.deps.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\bin\Debug\net6.0\HomeworkDoWhileLoop.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\bin\Debug\net6.0\HomeworkDoWhileLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\bin\Debug\net6.0\HomeworkDoWhileLoop.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\refint\HomeworkDoWhileLoop.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\HomeworkDoWhileLoop.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDoWhileLoopApp\HomeworkDoWhileLoop\obj\Debug\net6.0\ref\HomeworkDoWhileLoop.dll

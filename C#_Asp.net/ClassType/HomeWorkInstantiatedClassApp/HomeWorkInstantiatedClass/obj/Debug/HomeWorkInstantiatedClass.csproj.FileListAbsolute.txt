@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\bin\Debug\HomeWorkInstantiatedClass.exe.config
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\bin\Debug\HomeWorkInstantiatedClass.exe
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\bin\Debug\HomeWorkInstantiatedClass.pdb
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\obj\Debug\HomeWorkInstantiatedClass.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\obj\Debug\HomeWorkInstantiatedClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\obj\Debug\HomeWorkInstantiatedClass.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\obj\Debug\HomeWorkInstantiatedClass.exe
+C:\Users\Darshit.Shah\source\repos\ClassType\HomeWorkInstantiatedClassApp\HomeWorkInstantiatedClass\obj\Debug\HomeWorkInstantiatedClass.pdb

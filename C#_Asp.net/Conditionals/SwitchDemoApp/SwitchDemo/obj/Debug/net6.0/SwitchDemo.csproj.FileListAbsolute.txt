@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\bin\Debug\net6.0\SwitchDemo.exe
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\bin\Debug\net6.0\SwitchDemo.deps.json
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\bin\Debug\net6.0\SwitchDemo.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\bin\Debug\net6.0\SwitchDemo.dll
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\bin\Debug\net6.0\SwitchDemo.pdb
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.dll
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\refint\SwitchDemo.dll
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.pdb
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\SwitchDemo.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\SwitchDemoApp\SwitchDemo\obj\Debug\net6.0\ref\SwitchDemo.dll

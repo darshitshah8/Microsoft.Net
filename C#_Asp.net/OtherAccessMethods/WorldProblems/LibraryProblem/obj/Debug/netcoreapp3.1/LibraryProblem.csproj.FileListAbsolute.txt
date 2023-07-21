@@ -1,0 +1,14 @@
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\bin\Debug\netcoreapp3.1\LibraryProblem.exe
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\bin\Debug\netcoreapp3.1\LibraryProblem.deps.json
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\bin\Debug\netcoreapp3.1\LibraryProblem.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\bin\Debug\netcoreapp3.1\LibraryProblem.runtimeconfig.dev.json
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\bin\Debug\netcoreapp3.1\LibraryProblem.dll
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\bin\Debug\netcoreapp3.1\LibraryProblem.pdb
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.dll
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.pdb
+C:\Users\Darshit.Shah\source\repos\OtherAccessMethods\WorldProblems\LibraryProblem\obj\Debug\netcoreapp3.1\LibraryProblem.genruntimeconfig.cache

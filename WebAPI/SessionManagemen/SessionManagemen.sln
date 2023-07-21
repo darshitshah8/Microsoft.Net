@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SessionManagementDemo", "SessionManagementDemo\SessionManagementDemo.csproj", "{CF29A13D-75AC-456A-9033-E276AB97E297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionManagementAPI", "SessionManagementAPI\SessionManagementAPI.csproj", "{21165A08-D9EF-41C9-B50A-57BC686B66EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF29A13D-75AC-456A-9033-E276AB97E297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF29A13D-75AC-456A-9033-E276AB97E297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF29A13D-75AC-456A-9033-E276AB97E297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF29A13D-75AC-456A-9033-E276AB97E297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21165A08-D9EF-41C9-B50A-57BC686B66EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21165A08-D9EF-41C9-B50A-57BC686B66EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21165A08-D9EF-41C9-B50A-57BC686B66EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21165A08-D9EF-41C9-B50A-57BC686B66EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9528194-BB95-48B8-8FA3-CE4DA40CB412}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe.config
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.exe
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\bin\Debug\BattleshipLite.pdb
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.exe
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.pdb
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\bin\Debug\BattleShipLiteLibrary.dll
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\bin\Debug\BattleShipLiteLibrary.pdb
+C:\Users\Darshit.Shah\source\repos\BattleShipApplication\BattleShipLiteApp\BattleshipLite\obj\Debug\BattleshipLite.csproj.CopyComplete

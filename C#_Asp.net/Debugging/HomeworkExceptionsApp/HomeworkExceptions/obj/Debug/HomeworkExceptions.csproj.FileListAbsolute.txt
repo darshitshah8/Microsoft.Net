@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\bin\Debug\HomeworkExceptions.exe.config
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\bin\Debug\HomeworkExceptions.exe
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\bin\Debug\HomeworkExceptions.pdb
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\obj\Debug\HomeworkExceptions.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\obj\Debug\HomeworkExceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\obj\Debug\HomeworkExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\obj\Debug\HomeworkExceptions.exe
+C:\Users\Darshit.Shah\source\repos\Debugging\HomeworkExceptionsApp\HomeworkExceptions\obj\Debug\HomeworkExceptions.pdb

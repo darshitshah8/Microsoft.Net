@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.exe
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.deps.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\bin\Debug\net6.0\HomeworkVariables.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\refint\HomeworkVariables.dll
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.pdb
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\HomeworkVariables.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\CommonVariablesModules\HomeworkVariablesApp\HomeworkVariables\obj\Debug\net6.0\ref\HomeworkVariables.dll

@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\bin\Debug\net6.0\HomeworkMethods.exe
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\bin\Debug\net6.0\HomeworkMethods.deps.json
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\bin\Debug\net6.0\HomeworkMethods.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\bin\Debug\net6.0\HomeworkMethods.dll
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\bin\Debug\net6.0\HomeworkMethods.pdb
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.dll
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\refint\HomeworkMethods.dll
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.pdb
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\HomeworkMethods.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\Methods\HomeworkMethodsApp\HomeworkMethods\obj\Debug\net6.0\ref\HomeworkMethods.dll

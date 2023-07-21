@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\bin\Debug\InstantiatedClass.exe.config
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\bin\Debug\InstantiatedClass.exe
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\bin\Debug\InstantiatedClass.pdb
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\obj\Debug\InstantiatedClass.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\obj\Debug\InstantiatedClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\obj\Debug\InstantiatedClass.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\obj\Debug\InstantiatedClass.exe
+C:\Users\Darshit.Shah\source\repos\ClassType\InstantiatedClassApp\InstantiatedClass\obj\Debug\InstantiatedClass.pdb

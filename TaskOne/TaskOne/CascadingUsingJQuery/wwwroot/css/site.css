@@ -1,0 +1,85 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+button{
+    font-size :medium;
+}
+
+body {
+  margin-bottom: 60px;
+}
+* {
+    
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f3f2f2;
+    background-color:white
+    
+}
+
+.bg {
+    background: url('https://i.insider.com/5b9137e10ce5f5b27e8b4a0c?width=700'), blue;
+    background-color: rgba(109, 179, 242,0.9);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+   
+.container {
+    padding-top:30px;
+    margin-top: 10px,
+}
+
+p, a {
+    font-weight : 700;
+    font-size: 15px
+}
+.b-form {
+    width: 50%;
+    margin-left : 25%;
+     
+}
+.b-form .form-control {
+    font-size: 14px;
+    height: 40px;
+    padding-left: 40px;
+    background: white;
+    color: gray;
+}
+    .form-group {
+    top:0;
+    position: sticky;
+    margin:auto;
+}
+
+.b-font {
+    position: absolute;
+    top: 15px;
+    left: 18px;
+    z-index: 10;
+    color: #6b6b6b;
+    font-size: 13px;
+}
+
+.btn{
+    font-size :50px;
+    width : 50px;
+    height : 35px;   
+    }
+.lngbtn{
+    color : white;
+    font-weight:bold
+}
+
+
+/*NAVIGATION BAR*/

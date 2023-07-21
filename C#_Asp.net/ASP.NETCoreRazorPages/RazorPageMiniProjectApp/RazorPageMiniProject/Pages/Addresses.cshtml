@@ -1,0 +1,31 @@
+﻿@page
+@model RazorPageMiniProject.Pages.AddressesModel
+@{
+    ViewData["Title"] = "Addresses";
+}
+
+
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Address.StreetAddress"></label>
+        <input type="text" asp-for="Address.StreetAddress" placeholder="Street Address" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address.City"></label>
+        <input type="text" asp-for="Address.City" placeholder="City" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Address.State"></label>
+        <input type="text" asp-for="Address.State" placeholder="State" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address.ZipCode"></label>
+        <input type="text" asp-for="Address.ZipCode" placeholder="Zip Code" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+

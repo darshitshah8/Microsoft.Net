@@ -1,0 +1,8 @@
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\bin\Debug\HomeworkNamespace.exe.config
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\bin\Debug\HomeworkNamespace.exe
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\bin\Debug\HomeworkNamespace.pdb
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\obj\Debug\HomeworkNamespace.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\obj\Debug\HomeworkNamespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\obj\Debug\HomeworkNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\obj\Debug\HomeworkNamespace.exe
+C:\Users\Darshit.Shah\source\repos\ClassOption\HomeworkNamespaceApp\HomeworkNamespace\obj\Debug\HomeworkNamespace.pdb

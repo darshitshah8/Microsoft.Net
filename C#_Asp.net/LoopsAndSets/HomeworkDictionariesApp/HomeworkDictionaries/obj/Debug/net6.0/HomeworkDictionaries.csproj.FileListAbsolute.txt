@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\bin\Debug\net6.0\HomeworkDictionaries.exe
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\bin\Debug\net6.0\HomeworkDictionaries.deps.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\bin\Debug\net6.0\HomeworkDictionaries.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\bin\Debug\net6.0\HomeworkDictionaries.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\bin\Debug\net6.0\HomeworkDictionaries.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\refint\HomeworkDictionaries.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\HomeworkDictionaries.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkDictionariesApp\HomeworkDictionaries\obj\Debug\net6.0\ref\HomeworkDictionaries.dll

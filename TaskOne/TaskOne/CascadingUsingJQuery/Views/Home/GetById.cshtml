@@ -1,0 +1,50 @@
+﻿@*<!DOCTYPE html>
+<html>
+<head>
+    <title>Cascading Data</title>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery/dist/cascadingdata.js"></script>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Cascading Data</h2>
+        <div>
+            <form>
+                <textarea id="inputId" name="Search"></textarea>
+            </form>
+            <button type="button" id="button" class="btn btn-primary" onclick="GetById">Search</button><br />
+        </div>
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Country Id</th>
+                    <th>Country  Name</th>
+                    <th>State Name</th>
+                    <th>City Name</th>
+                </tr>
+            </thead>
+            <tbody class="tbody">
+            </tbody>
+        </table>
+        <hr />      
+        </div>
+    <script src="~/Scripts/jquery-1.9.1.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</body>
+</html>
+
+*@

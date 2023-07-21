@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\bin\Debug\net6.0\HomeworkConditionalStartement.exe
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\bin\Debug\net6.0\HomeworkConditionalStartement.deps.json
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\bin\Debug\net6.0\HomeworkConditionalStartement.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\bin\Debug\net6.0\HomeworkConditionalStartement.dll
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\bin\Debug\net6.0\HomeworkConditionalStartement.pdb
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.dll
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\refint\HomeworkConditionalStartement.dll
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.pdb
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\HomeworkConditionalStartement.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\Conditionals\HomeworkConditionalStartementApp\HomeworkConditionalStartement\obj\Debug\net6.0\ref\HomeworkConditionalStartement.dll

@@ -1,0 +1,20 @@
+﻿@page
+@model HomeworkRazorPage.Pages.GreetingsModel
+@{
+    ViewData["Title"] = "Get Greetings";
+}
+    <h1>Message Wall</h1>
+    <form method="post">
+        
+        <input asp-for="FirstName" type="text" placeholder="Enter first name" />
+        <input asp-for="LastName" type="text" placeholder="Enter last name" />
+        <button type="submit" class="btn btn-primary">Submit</button> 
+    </form>
+    <h3>These are the message</h3>
+        @if (Model.FirstName.Length != 0 || Model.LastName.Length != 0)
+        {
+    <h3>Hello @Model.FirstName @Model.LastName</h3>
+} 
+
+  
+  

@@ -1,0 +1,15 @@
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\bin\Debug\net6.0\HomeworkArrays.exe
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\bin\Debug\net6.0\HomeworkArrays.deps.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\bin\Debug\net6.0\HomeworkArrays.runtimeconfig.json
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\bin\Debug\net6.0\HomeworkArrays.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\bin\Debug\net6.0\HomeworkArrays.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.csproj.AssemblyReference.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.AssemblyInfoInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.AssemblyInfo.cs
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.csproj.CoreCompileInputs.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\refint\HomeworkArrays.dll
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.pdb
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\HomeworkArrays.genruntimeconfig.cache
+C:\Users\Darshit.Shah\source\repos\LoopsAndSets\HomeworkArraysApp\HomeworkArrays\obj\Debug\net6.0\ref\HomeworkArrays.dll

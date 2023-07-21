@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p32IDeuKL8cB1eZqvwDqkiXYQrh5Gxw9f3+IvnRQff5pIsCs4yXevCKLh9koBysU7zs5eV2aTPzhplSLnIe2dQ==",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\DependencyInjection\\PropertyType\\PropertyType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darshit.Shah\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Darshit.Shah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
